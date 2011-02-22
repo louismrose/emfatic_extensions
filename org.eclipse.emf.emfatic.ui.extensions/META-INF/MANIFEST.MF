@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Emfatic UI Extensions
+Bundle-SymbolicName: org.eclipse.emf.emfatic.ui.extensions;singleton:=true
+Bundle-Version: 0.0.1.qualifier
+Bundle-Vendor: University of York
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: org.eclipse.core.resources;bundle-version="3.5.0",
+ org.eclipse.core.runtime;bundle-version="3.5.0",
+ org.eclipse.emf.emfatic.core;bundle-version="0.7.0",
+ org.eclipse.ui;bundle-version="3.5.0",
+ org.eclipse.jdt.core;bundle-version="3.5.0"
+Bundle-Activator: org.eclipse.emf.emfatic.ui.extensions.EmfaticUiExtensionsPlugin
+Bundle-ActivationPolicy: lazy

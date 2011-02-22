@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/org.eclipse.emf.emfatic.ui.extensions.feature_0.0.1.201102181338.jar" id="org.eclipse.emf.emfatic.ui.extensions.feature" version="0.0.1.201102181338">
+      <category name="org.eclipse.emf.emfatic.ui.extensions"/>
+   </feature>
+   <category-def name="org.eclipse.emf.emfatic.ui.extensions" label="Emfatic UI Extensions">
+      <description>
+         Builder and nature for Emfatic.
+      </description>
+   </category-def>
+</site>
