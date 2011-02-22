@@ -14,4 +14,4 @@ h2. Usage
 
 After installing the Emfatic Extensions, right-click any project and select Emfatic > Enable Emfatic Project nature. Subsequently, an Ecore file will be automatically generated whenever an Emfatic file is saved.
 
-
+!https://github.com/louismrose/emfatic_extensions/raw/master/usage.png(Selecting the Enable Emfatic Project nature from the Emfatic context menu of a project)!
