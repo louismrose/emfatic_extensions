@@ -1,0 +1,17 @@
+h1. Emfatic Extensions
+
+These plugins provides a project builder for Emfatic, which will automatically generate Ecore files from Emfatic files.
+
+
+h2. Installation
+
+To install the Emfatic Extensions, please use the following Eclipse update site:
+
+@https://github.com/louismrose/emfatic_extensions/raw/master/org.eclipse.emf.emfatic.ui.extensions.update/site.xml@
+
+
+h2. Usage
+
+After installing the Emfatic Extensions, right-click any project and select Emfatic > Enable Emfatic Project nature. Subsequently, an Ecore file will be automatically generated whenever an Emfatic file is saved.
+
+
